@@ -37,6 +37,13 @@
   </ul>
 </details>
 <details>
+  <summary><strong>Future Projects & Ideas 🧠</strong></summary>
+  <ul>
+    <li>Dockely. A New way to manage your Containers that's being built from a GitHub Repo.</li>
+     <li>More!</li>
+  </ul>
+</details>
+<details>
   <summary><strong>Stats</strong></summary>
   <ul>
 <p align="center">
