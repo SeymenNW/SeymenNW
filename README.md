@@ -39,7 +39,7 @@
 <details>
   <summary><strong>Future Projects & Ideas 🧠</strong></summary>
   <ul>
-    <li>Dockely. A New way to manage your Containers that's being built from a GitHub Repo.</li>
+    <li>Dockely. A New way to manage your Containers. Helpful for Images being built from a GitHub Repo.</li>
      <li>More!</li>
   </ul>
 </details>
