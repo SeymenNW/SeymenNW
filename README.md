@@ -25,6 +25,7 @@
 
 - 🎮 **Favorite games:** I enjoy playing `Call of Duty`, `Counter-Strike 2`, and `mostly competitive games`.
 - 💼 **Current occupation:** I am currently `Studying at UCL in Odense` and working on various projects.
+- 🖥️ **Programming Languages**: I do love both C# and JavaScript (TypeScript is so much better tho)!
 
 <!-- Projects -->
 <h2 align="center">Projects and stats 📊</h2>
@@ -54,4 +55,4 @@
 </details>
 
 <!-- Footer -->
-  <p align="center">Thanks for visiting my profile! 🙏</p>
+  <p align="center">Thanks for visiting my profile!</p>
