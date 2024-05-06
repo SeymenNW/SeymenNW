@@ -18,6 +18,8 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
+ 
+
 </p>
 
 <!-- Facts -->
@@ -25,7 +27,7 @@
 
 - 🎮 **Favorite games:** I enjoy playing `Call of Duty`, `Counter-Strike 2`, and `mostly competitive games`.
 - 💼 **Current occupation:** I am currently `Studying at UCL in Odense` and working on various projects.
-- 🖥️ **Programming Languages**: I do love both C# and JavaScript (TypeScript is so much better tho)!
+- 🖥️ **Programming Languages**: C# and JavaScript (TypeScript is so much better tho)
 
 <!-- Projects -->
 <h2 align="center">Projects and stats 📊</h2>
@@ -33,15 +35,22 @@
 <details>
   <summary><strong>Projects</strong></summary>
   <ul>
-    <li>Clanky. A New Discord Bot Written in JavaScript</li>
-     <li>Pricely. A Price Comparison site that is fair</li>
+     <li>Pricely API. API that webscrapes MULTIPLE sites and returns the best price for the searched product.</li>
   </ul>
 </details>
 <details>
-  <summary><strong>Future Projects & Ideas 🧠</strong></summary>
+  <summary><strong>Tools I've used</strong></summary>
   <ul>
-    <li>Dockely. A New way to manage your Containers. Helpful for Images being built from a GitHub Repo.</li>
-     <li>More!</li>
+<li>Backend Development with Express JS Framework (+ With TypeScript & both Bun and Node.js) and ASP.NET Web API</li>
+
+<li>Partial Database Development with Drizzle ORM for retrieving data from databases to Node.js  applications with both MySQL and PostgreSQL</li>
+
+<li>Webscraping and Web Testing with Playwright and Puppeteer  (With both .NET C# and Node.js TypeScript)</li>
+
+<li>Avalonia & WPF for .NET C# Desktop Development</li>
+
+<li>Frontend Development with Blazor, ASP.NET MVC and React</li>
+
   </ul>
 </details>
 <details>
@@ -54,5 +63,10 @@
   </ul>
 </details>
 
+
 <!-- Footer -->
-  <p align="center">Thanks for visiting my profile!</p>
+  <p align="center">Thanks for visiting my profile!
+
+    
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=1300&pause=250&color=F7F7F7&background=FF0000&center=true&vCenter=true&random=false&width=200&height=33&lines=C%23;TypeScript;JavaScript;MySQL;MS+SQL;PostgreSQL;MongoDB;CSS+(Tailwind);HTML;XAML)](https://git.io/typing-svg)
+</p>
