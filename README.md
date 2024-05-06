@@ -65,8 +65,6 @@
 
 
 <!-- Footer -->
-  <p align="center">Thanks for visiting my profile!
+  <p align="center">Thanks for visiting my profile!</p>
 
-    
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=1300&pause=250&color=F7F7F7&background=FF0000&center=true&vCenter=true&random=false&width=200&height=33&lines=C%23;TypeScript;JavaScript;MySQL;MS+SQL;PostgreSQL;MongoDB;CSS+(Tailwind);HTML;XAML)](https://git.io/typing-svg)
-</p>
+
