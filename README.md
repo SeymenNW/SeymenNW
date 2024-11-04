@@ -1,5 +1,5 @@
 <!-- Introduction -->
-<h1 align="center" >👋 Hey, I'm Seymen!</h1>
+<h1 align="center" >👋 Hey, I'm Seymen 🙂</h1>
 <p>I'm a CS Student and passionate about creating innovative solutions, apps and projects.</p>
 <p>Explore my GitHub profile to see my latest projects!</p>
 
@@ -26,8 +26,8 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 - 🎮 **Favorite games:** I enjoy playing `Call of Duty`, `Counter-Strike 2`, and `mostly competitive games`.
-- 💼 **Current occupation:** I am currently `Studying at UCL in Odense` and working on various projects.
-- 🖥️ **Programming Languages**: C# and JavaScript (TypeScript is so much better tho)
+- 💼 **Current occupation:** I am currently `Studying Computer Science at UCL in Odense` and working on various projects.
+- 🖥️ **Programming Languages**: C#, JavaScript, TypeScript & GoLang.
 
 <!-- Projects -->
 <h2 align="center">Projects and stats 📊</h2>
@@ -35,15 +35,17 @@
 <details>
   <summary><strong>Projects</strong></summary>
   <ul>
-     <li>Pricely API. API that webscrapes MULTIPLE sites and returns the best price for the searched product.</li>
+     <li>Pricely. Pulls price data from the most popular danish webshops and price comparison sites. Uses API if available and webscraping if not. Completely without trackers & ads.</li>
+     <li> A New project is coming very soon...</li>
   </ul>
+  
 </details>
 <details>
   <summary><strong>Tools I've used</strong></summary>
   <ul>
 <li>Backend Development with Express JS Framework (+ With TypeScript & both Bun and Node.js) and ASP.NET Web API</li>
 
-<li>Partial Database Development with Drizzle ORM for retrieving data from databases to Node.js  applications with both MySQL and PostgreSQL</li>
+<li>Database Development with Drizzle ORM for retrieving data from databases to Node.js  applications with both MySQL and PostgreSQL. And EntityFramework Core with C#.</li>
 
 <li>Webscraping and Web Testing with Playwright and Puppeteer  (With both .NET C# and Node.js TypeScript)</li>
 
