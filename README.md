@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <h1 align="center" >👋 Hey, I'm Seymen 🙂</h1>
-<p>I'm a CS Student and passionate about creating innovative solutions, apps and projects.</p>
-<p>Explore my GitHub profile to see my latest projects!</p>
+<p>I'm a Software Development student and passionate about creating innovative solutions, apps and projects.</p>
+<p>Explore my GitHub profile to see my latest projects.</p>
 
 <!-- Social media badges -->
 <h2 align="center">Find me on the web 🌎</h2>
@@ -26,7 +26,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 - 🎮 **Favorite games:** I enjoy playing `Call of Duty`, `Counter-Strike 2`, and `mostly competitive games`.
-- 💼 **Current occupation:** I am currently `Studying Computer Science at UCL in Odense` and working on various projects.
+- 💼 **Current occupation:** I am currently a student. Bachelor of Software Development.
 - 🖥️ **Programming Languages**: C#, JavaScript, TypeScript & GoLang.
 
 <!-- Projects -->
